@@ -32,9 +32,9 @@ If you want to run the project locally, follow these steps:
 
 ## Contributing
 
-If you'd like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute to the project, please follow the contribution guidelines.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License..
 
